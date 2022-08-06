@@ -6,8 +6,7 @@ Kitap Yurdu Senaryo
 
 - https://www.kitapyurdu.com/ sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir.
-- Ürün arama alanına “roman” yazılır ve klavyeden “enter” tuşuna basılır. (Ürün
-aranına yazılacak roman kelimesi csv uzantılı dosyadan okunması gerekmektedir.)
+- Ürün arama alanına “roman” yazılır ve klavyeden “enter” tuşuna basılır.
 - Listelenen kitapların arasından rastgele bir kitap seçilir.
 - Sepete ekle butonuna basılır.
 - Sayfanın sağ üst kısmında bulunan sepet ikonundaki değer kontrol edilir.
